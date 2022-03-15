@@ -1,0 +1,6 @@
+class Hello
+public Static void main
+
+{
+System.out.println("Hello World)
+}
